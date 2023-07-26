@@ -581,6 +581,10 @@ lg_peers:
     asn: 393577
     ipv4: 66.103.134.4
     ipv6: 2602:291::1
+  TMIT:
+    asn: 197749
+    ipv4: 2.233.121.21
+    ipv6: 2001:678:c84::1
   
 
 readonly_peers:
